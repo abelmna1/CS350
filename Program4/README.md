@@ -1,4 +1,4 @@
-Code contains implementation of various page eviction policies in an OS including optimal, clocking, randomizing, FIFO, and least recently used.
+Code contains implementations of various page eviction policies in an OS including optimal, clocking, randomizing, FIFO, and least recently used.
 Performance of policies is measured by using 3 different workloads: No locality, looping, and 80-20.
 
 Graphing of results can be done by using script found in plot_hit_rates.plt and running the terminal command:
